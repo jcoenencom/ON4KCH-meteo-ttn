@@ -99,7 +99,7 @@ void connect() {
 
   Serial.print("\nconnecting...");
   
-  while (!client.connect(BROKER, "jcoenen", "Beatr1ce")) {
+  while (!client.connect(BROKER, "XXXXX", "XXXXX")) {
     Serial.print(".");
     delay(1000);
   }
@@ -122,7 +122,7 @@ void reconnect() {
 
     if (!client.connected()) {
     console->println("conneccting mqtt");
-    while (!client.connect(BROKER, "jcoenen", "Beatr1ce")) {
+    while (!client.connect(BROKER, "XXXXX", "XXXXX")) {
       Serial.print(".");
       delay(1000);
     }
