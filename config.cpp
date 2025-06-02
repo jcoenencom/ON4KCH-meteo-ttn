@@ -9,8 +9,8 @@ IPAddress primaryDNS PRIMARYDNS;
 IPAddress secondaryDNS SECONDARYDNS;
 uint16_t  port = 23;
 
-char ssid[] = "Malperthuis";
-char pass[] = "9725145239910203";
+char ssid[] = "XXXXXXXXXX";
+char pass[] = "XXXXXXXXXXXX";
 
 
 WiFiClient net;
