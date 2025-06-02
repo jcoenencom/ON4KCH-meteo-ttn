@@ -21,3 +21,4 @@ Which eventually ended up like this
 
 ![assembly](https://www.jcoenen.com/images/domotique/station-meteo/RFM95W_ON.jpeg?width=40pc&classes=border,shadow)
 
+![enclosed](https://www.jcoenen.com/images/domotique/station-meteo/station-meteo.jpeg?width=40pc&classes=border,shadow)
