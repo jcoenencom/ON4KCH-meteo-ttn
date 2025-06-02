@@ -15,4 +15,4 @@ optional an OLED display Module, can be added on the I2C bus (not yet foreseen i
 Code is functional, data is collected from the broker into a RRD database for wuick plotting and long term statistics.
 Providing the broker has a websocket access, data can be fed dynamically in web pages (using a small javascript script).
 
-The weather station enclosure come from 
+The weather station enclosure come from a Softwarecrash project available on [makerworld](https://makerworld.com/en/models/111567-weather-station-anemometer?from=search#profileId-119379)
